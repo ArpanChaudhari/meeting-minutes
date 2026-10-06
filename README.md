@@ -1,5 +1,7 @@
 # AI Meeting Minutes Generator
 
+[![Live Demo](https://img.shields.io/badge/%20Live%20Demo-Streamlit-red?style=for-the-badge&logo=streamlit)](https://meeting-minutes-groq.streamlit.app/)
+
 An AI-powered web application that converts meeting audio recordings into professionally structured meeting minutes. Built with Streamlit, powered by Groq's ultra-fast inference engine.
 
 ## Features
